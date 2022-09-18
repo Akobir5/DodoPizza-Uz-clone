@@ -1,0 +1,9 @@
+.logo {
+  margin-left: 40px;
+}
+
+.deliveryMain p svg {
+  width: 30px;
+  height: 30px;
+  fill: yellow;
+}
